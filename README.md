@@ -190,7 +190,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Steve Thomas Mulamoottil**
 - GitHub:https://github.com/SteveTM-git
-- Project: VisionEarth
+- Project:https://github.com/SteveTM-git/VisionEarth
 
 ## 🙏 Acknowledgments
 
