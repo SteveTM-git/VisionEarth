@@ -20,6 +20,20 @@ An end-to-end AI application that uses satellite imagery and deep learning to de
 - **🎨 Beautiful UI**: Modern glassmorphism design with interactive visualizations
 - **⚡ Fast API**: RESTful API built with FastAPI
 
+## 🎨 Screenshots
+
+### Dashboard
+<img width="1424" height="528" alt="image" src="https://github.com/user-attachments/assets/2a5fcc1e-695c-4724-af50-492a3b082be2" />
+<img width="1424" height="620" alt="image" src="https://github.com/user-attachments/assets/296b3b38-7be4-42cf-9a5e-503ffd09f3b6" />
+
+### Analysis Results
+<img width="1424" height="558" alt="image" src="https://github.com/user-attachments/assets/2da5fbc4-b563-4dfe-b7e0-052e7ebec8fb" />
+
+
+### Segmentation Map
+<img width="1423" height="684" alt="image" src="https://github.com/user-attachments/assets/141d7155-27e4-4b97-ab69-c3eff2edb0a8" />
+<img width="1425" height="682" alt="image" src="https://github.com/user-attachments/assets/579d464c-419b-4bb4-8f2f-e757cd16ff85" />
+
 ## 🏗️ Architecture
 
 ```
@@ -156,17 +170,6 @@ The model successfully detects:
 - **Water Bodies**: 5-15% coverage identification
 - **Risk Assessment**: Low/Medium/High classification
 
-## 🎨 Screenshots
-
-### Dashboard
-![Dashboard](docs/dashboard.png)
-
-### Analysis Results
-![Results](docs/results.png)
-
-### Segmentation Map
-![Segmentation](docs/segmentation.png)
-
 ## 🔮 Future Enhancements
 
 - [ ] Time-series analysis (before/after comparison)
@@ -186,7 +189,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👨‍💻 Author
 
 **Steve Thomas Mulamoottil**
-- GitHub: [@stevethomasmulamoottil](https://github.com/SteveTM-git)
+- GitHub:https://github.com/SteveTM-git
 - Project: VisionEarth
 
 ## 🙏 Acknowledgments
